@@ -4,7 +4,7 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-/* Card boody */
+/* Card body */
 .single-product {
   line-height:90%;
   transition: 500ms;
@@ -18,7 +18,7 @@ body {
   transform: translate(-5px,-5px);
 }
 
-/* cart body */
+/* Cart body */
 .cart {
   background-color: rgba(255, 253, 253,.5);
   width: 350px;
